@@ -1,0 +1,17 @@
+body {
+
+    display: flex;
+}
+    
+
+.left-column {
+    width: 30%;
+    background-color: rgb(111, 194, 221);
+    padding: 20px;
+}
+
+.right-column {
+    width: 70%;
+    background-color: rgb(229, 81, 150);
+    padding: 20px;
+}

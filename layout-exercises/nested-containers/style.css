@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.outer {
+    width: 90%;
+    height: 90%;
+    margin: 10px auto; 
+    padding: 100px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.container-2 {
+    width: 50%;
+    height: 50%; 
+    margin: 20px auto;  
+    padding: 50px;
+    background-color: hotpink;
+    text-align: center;
+
+}
+
+.container-3 {
+    width: 50%;
+    height: 50%;
+    margin: 20px auto;
+    padding: 50px;
+    background-color: green;
+}
+
+.container-4 {
+    width: 50%;
+    height: 50%; 
+    margin: 20px auto;
+    padding: 50px;
+    background-color: lightgreen;
+}
